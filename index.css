@@ -1,0 +1,33 @@
+.mainContainer {
+    max-width: 1400px;
+    margin: 0px auto;
+    height: 100vh;
+}
+.season-image {
+    width: 100%;
+}
+
+.button{
+    color: white;
+    font-size: 28px;
+    font-weight: 600;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 20px;
+}
+.spingBtn {
+    background-color: green;
+
+}
+.summerBtn {
+    background-color: yellow;
+
+}
+.autumnBtn {
+    background-color: red;
+
+}
+.winterBtn{
+    background-color: lightskyblue;
+
+}
